@@ -28,7 +28,7 @@ An AI-powered personal assistant with:
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, Java, JavaScript  
-- **Frameworks & Tools:** PyQt, JavaFX, Selenium  
+- **Frameworks & Tools:** PyQt,Selenium  
 - **Databases:** MongoDB  
 - **Cloud & APIs:** Groq API, Cohere API, Hugging Face  
 - **AI/ML:** Deep Learning basics, Google Colab  
